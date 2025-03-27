@@ -1,0 +1,11 @@
+C:\Users\vinudev.tv\source\repos\VectorMathLibrary\VectorMathLibrary\bin\Release\net8.0\VectorMathLibrary.deps.json
+C:\Users\vinudev.tv\source\repos\VectorMathLibrary\VectorMathLibrary\bin\Release\net8.0\VectorMathLibrary.dll
+C:\Users\vinudev.tv\source\repos\VectorMathLibrary\VectorMathLibrary\bin\Release\net8.0\VectorMathLibrary.pdb
+C:\Users\vinudev.tv\source\repos\VectorMathLibrary\VectorMathLibrary\obj\Release\net8.0\VectorMathLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinudev.tv\source\repos\VectorMathLibrary\VectorMathLibrary\obj\Release\net8.0\VectorMathLibrary.AssemblyInfoInputs.cache
+C:\Users\vinudev.tv\source\repos\VectorMathLibrary\VectorMathLibrary\obj\Release\net8.0\VectorMathLibrary.AssemblyInfo.cs
+C:\Users\vinudev.tv\source\repos\VectorMathLibrary\VectorMathLibrary\obj\Release\net8.0\VectorMathLibrary.csproj.CoreCompileInputs.cache
+C:\Users\vinudev.tv\source\repos\VectorMathLibrary\VectorMathLibrary\obj\Release\net8.0\VectorMathLibrary.dll
+C:\Users\vinudev.tv\source\repos\VectorMathLibrary\VectorMathLibrary\obj\Release\net8.0\refint\VectorMathLibrary.dll
+C:\Users\vinudev.tv\source\repos\VectorMathLibrary\VectorMathLibrary\obj\Release\net8.0\VectorMathLibrary.pdb
+C:\Users\vinudev.tv\source\repos\VectorMathLibrary\VectorMathLibrary\obj\Release\net8.0\ref\VectorMathLibrary.dll
